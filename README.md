@@ -10,4 +10,5 @@ Topics I read about :
 
 ## List
 
-* [Why CSCW Applications Fail](https://dl.acm.org/citation.cfm?id=62273) #CSCW #HCI. - 18/10/2018
+* [Why CSCW Applications Fail](https://dl.acm.org/citation.cfm?id=62273) #CSCW #HCI. 
+* [The Intellectual Challenge of CSCW](https://dl.acm.org/citation.cfm?id=1463020) #CSCW #HCI. 
