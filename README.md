@@ -20,3 +20,5 @@ All the papers were legally downloaded with access provided by IIT Madras.
 
 * [Why CSCW Applications Fail](https://dl.acm.org/citation.cfm?id=62273) #CSCW #HCI. 
 * [The Intellectual Challenge of CSCW](https://dl.acm.org/citation.cfm?id=1463020) #CSCW #HCI. 
+* [SeeSaw - I See You Saw My Video Message](https://dl.acm.org/citation.cfm?id=2785847) #CSCW #HCI. 
+* [Beyond Being There](https://dl.acm.org/citation.cfm?id=142769) #CSCW #HCI. 
