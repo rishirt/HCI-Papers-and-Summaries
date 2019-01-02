@@ -14,8 +14,6 @@ I do not post all the papers I read. For a few papers that I like but do not fin
 
 All the papers were legally downloaded with access provided by IIT Madras.
 
-## Paper Summaries
-
 ### List of Papers
 
 * [Why CSCW Applications Fail](https://dl.acm.org/citation.cfm?id=62273)
