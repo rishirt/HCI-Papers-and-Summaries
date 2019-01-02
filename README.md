@@ -1,7 +1,7 @@
 ## Social Computing
 Social Computing is an area of computer science that is concerned with the interaction of social behaviour and computational systems.
 
-In this repo , I'll be posting summaries and commentaries of papers I liked reading. Please read this [page](https://hcicourses.stanford.edu/cs376/2018/critique_format.php)by Michael Benrstein on writing a good commentary.
+In this repo , I'll be posting summaries and commentaries of papers I liked reading. Please read this [page](https://hcicourses.stanford.edu/cs376/2018/critique_format.php) by [Michael Benrstein](https://hci.stanford.edu/msb/) on writing a good commentary.
 
 My main motivations for doing this are - personal archiving and to enable someone without a formal background in the subject get started without going through the trouble of finding relevant and quality literature like I did. 
 
