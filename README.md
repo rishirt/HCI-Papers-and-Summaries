@@ -16,7 +16,7 @@ All the papers were legally downloaded with access provided by IIT Madras.
 
 ## Paper Summaries
 
-# List of Papers
+### List of Papers
 
 * [Why CSCW Applications Fail](https://dl.acm.org/citation.cfm?id=62273)
 * [The Intellectual Challenge of CSCW](https://dl.acm.org/citation.cfm?id=1463020) 
