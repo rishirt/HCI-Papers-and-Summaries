@@ -20,3 +20,7 @@ All the papers were legally downloaded with access provided by IIT Madras.
 * [The Intellectual Challenge of CSCW](https://dl.acm.org/citation.cfm?id=1463020) 
 * [SeeSaw - I See You Saw My Video Message](https://dl.acm.org/citation.cfm?id=2785847)
 * [Beyond Being There](https://dl.acm.org/citation.cfm?id=142769)
+
+### List of Courses Completed ( Readings )
+
+* CS492 - [Social Computing](https://www.kixlab.org/courses/cs473-fall-2018/index.html) ( KAIST ) 
